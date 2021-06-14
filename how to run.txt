@@ -1,0 +1,15 @@
+install latest python and libraries
+
+download anaconda navigator 
+
+create new environement with all tensorflow package
+
+open with terminal 
+
+run detect_mask_video.py through terminal 
+
+
+input mail id in source code line 20 to recieve SMTP services 
+
+
+thank you for evaluating!
